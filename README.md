@@ -1,4 +1,6 @@
 # COOLANT
+https://arxiv.org/abs/2302.14057
+
 Code for paper "Cross-modal Contrastive Learning for Multimodal Fake News Detection".
 
 # Dependency
